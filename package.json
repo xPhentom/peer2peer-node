@@ -1,0 +1,24 @@
+{
+  "name": "peer2peer",
+  "version": "1.0.0",
+  "description": "A platform for students to rate each other's teamwork performance",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node-peer2peer"
+  },
+  "keywords": [
+    "node",
+    "peer2peer",
+    "students"
+  ],
+  "author": "Wouter Roozeleer",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.2",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
